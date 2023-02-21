@@ -5,6 +5,9 @@
     height: 100vh;
     padding: 20px;
     text-align: center;
+    display: d-flex;
+    direction: column;
+    justify-content: center;
 }
 .img{
     height: 450px;
@@ -46,4 +49,7 @@
     
     padding: 20px;
     text-align: center;
+    display: d-flex;
+    direction: column;
+    justify-content: center;
 }
